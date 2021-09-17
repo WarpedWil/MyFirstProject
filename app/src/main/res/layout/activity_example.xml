@@ -7,5 +7,5 @@
     android:layout_height="match_parent"
     tools:context=".ExampleActivity">
 <!--    ACTIVITY STEP 4: add the activity via above line ^ -->
-
+<!-- I accessed this area ;) -->
 </androidx.constraintlayout.widget.ConstraintLayout>
